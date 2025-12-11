@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner sc = new Scanner(System.in);
+	    int dd=sc.nextInt();
+	    int mm=sc.nextInt();
+	    int yy=sc.nextInt();
+		System.out.println(dd+" "+mm+" "+yy);
+	}
+}
